@@ -2,3 +2,7 @@ cmake-build-*/
 .idea/
 .DS_Store
 .omc/
+
+# compiled binaries
+r_*/[!.]*
+edu_*/[!.]*
