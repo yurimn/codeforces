@@ -2,4 +2,6 @@
 
 > Competing in Codeforces rounds with absolutely zero AI. Just me.
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=yurimmmmm&theme=tokyonight)](https://codeforces.com/profile/yurimmmmm)
+<a href="https://codeforces.com/profile/yurimmmmm">
+  <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=yurimmmmm&theme=tokyonight" width="100%" />
+</a>
