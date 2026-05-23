@@ -3,7 +3,7 @@ project(codeforces)
 
 set(CMAKE_CXX_STANDARD 20)
 
-file(GLOB_RECURSE SOURCES "r_*/*.cpp" "edu_*/*.cpp")
+file(GLOB_RECURSE SOURCES CONFIGURE_DEPENDS "r_*/*.cpp" "edu_*/*.cpp")
 
 foreach(SRC ${SOURCES})
     file(RELATIVE_PATH REL_PATH ${CMAKE_SOURCE_DIR} ${SRC})
